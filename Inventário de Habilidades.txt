@@ -1,0 +1,62 @@
+Inventário de Habilidades – Rian Lucas Dias Guedes
+
+🧾 Inventário de Habilidades
+Técnicas
+- Python
+- SQL
+- Power BI
+- Dashboards interativos
+- Mineração de dados
+- Engenharia de dados
+- Business Intelligence
+
+Profissionais
+- Experiência em setor bancário
+- Organização de processos
+- Planejamento estratégico
+- Atendimento ao cliente
+
+Interpessoais (Soft Skills)
+- Comunicação clara
+- Trabalho em equipe
+- Pensamento analítico
+- Resolução de problemas
+
+📂 Nichos de Atuação
+Análise de Dados: Python, SQL, Mineração de dados
+Business Intelligence: Power BI, Dashboards, BI estratégico
+Engenharia de Dados: Modelagem, pipelines, integração
+Gestão e Processos: Planejamento estratégico, organização
+Soft Skills: Comunicação, colaboração, atendimento
+
+🔥 Quadro de Prioridade (Mercado TI Atual)
+Dados & BI – Altíssima demanda – Power BI, SQL, Python – Alta prioridade
+Engenharia de Dados – Alta demanda – Python, pipelines – Alta prioridade
+Cloud & DevOps – Crescente demanda – (a desenvolver) – Média prioridade
+Segurança da Informação – Crescente demanda – (a desenvolver) – Média prioridade
+Gestão Ágil – Média demanda – Planejamento estratégico – Média prioridade
+
+💡 Tabelas de “Vender seu Peixe”
+
+1. LinkedIn & Networking
+- Publicar dashboards e cases de BI
+- Participar de grupos de dados e tecnologia
+- Atualizar headline com foco em BI/Data
+
+2. Entrevistas
+- Mostrar resultados: “reduzi tempo de análise em 40%”
+- Explicar projetos com começo, meio e fim
+- Destacar Python + Power BI como combinação rara
+
+3. Portfólio
+- Repositórios no GitHub com scripts de ETL e dashboards
+- Publicar relatórios interativos no Power BI
+- Cases de análise de dados públicos (IBGE, Kaggle)
+
+4. Proposta de Valor
+Empresas: “Transformo dados em insights acionáveis para decisões estratégicas”
+Startups: “Agilidade na criação de dashboards e automação de processos”
+Bancos/Financeiro: “Experiência prévia no setor bancário + BI avançado”
+
+📌 Sugestão prática
+Você já tem uma base sólida em Python + Power BI + SQL. O próximo passo para aumentar sua prioridade no mercado é investir em Cloud (AWS/Azure/GCP) e Data Engineering avançada (Spark, Databricks). Isso te coloca no topo da demanda atual.
